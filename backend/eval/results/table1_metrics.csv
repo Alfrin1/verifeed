@@ -1,0 +1,7 @@
+Model,n,Acc,Prec,Rec,F1,AUC,threshold,TP,FP,TN,FN
+Text detector,40,0.650,1.000,0.300,0.462,0.698,0.5,6,0,20,14
+Full fusion system,40,0.625,0.727,0.400,0.516,0.764,0.6,8,3,17,12
+
+Latency,n,mean_ms,p50_ms,p95_ms,max_ms
+Cold cache,40,2775.5,1217.4,5502.1,6407.5
+Warm cache,40,0.0,0.0,0.0,0.0

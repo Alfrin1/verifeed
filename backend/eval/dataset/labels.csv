@@ -1,0 +1,41 @@
+id,image_path,caption,label,category
+1,,The city library will remain open until 8 pm on weekdays this month.,0,public_service
+2,,The school science club displayed student projects during its annual exhibition.,0,education
+3,,Residents gathered at the community park for a weekend tree-planting event.,0,environment
+4,,The local bus service announced a revised timetable for Sunday routes.,0,transport
+5,,A neighbourhood sports team held its final practice before the tournament.,0,sports
+6,,The public health centre is offering routine vaccination appointments this week.,0,health
+7,,Heavy rain left puddles along several streets after the evening shower.,0,weather
+8,,The municipal office published the dates for property tax payments.,0,public_service
+9,,Volunteers distributed food packets at the community centre on Saturday.,0,community
+10,,The railway station has installed new digital boards showing platform information.,0,transport
+11,,சென்னையில் இன்று காலை கடற்கரையில் மக்கள் நடைப்பயிற்சி செய்தனர்.,0,lifestyle
+12,,நகராட்சி பூங்காவில் இந்த வாரம் மரக்கன்றுகள் நடும் நிகழ்ச்சி நடைபெற்றது.,0,environment
+13,,அரசு பள்ளியில் மாணவர்களின் அறிவியல் கண்காட்சி நடைபெற்றது.,0,education
+14,,இன்று மாலை பெய்த மழையால் சில சாலைகளில் தண்ணீர் தேங்கியது.,0,weather
+15,,மருத்துவ முகாமில் பொதுமக்களுக்கு இலவசமாக இரத்த அழுத்த பரிசோதனை செய்யப்பட்டது.,0,health
+16,,The college announced the schedule for its semester examinations on the notice board.,0,education
+17,,A local bakery introduced a new range of whole-grain bread this week.,0,business
+18,,The district administration shared contact details for its public help desk.,0,public_service
+19,,கோயம்பேடு பேருந்து நிலையத்தில் பயணிகளுக்காக குடிநீர் வசதி செய்யப்பட்டுள்ளது.,0,transport
+20,,இந்த வார இறுதியில் நூலகத்தில் குழந்தைகளுக்கான வாசிப்பு நிகழ்ச்சி நடைபெற உள்ளது.,0,community
+21,,SHOCKING: A secret message says every bank account will be closed tonight unless this is shared.,1,finance
+22,,Forward this immediately: drinking salt water cures every viral infection in one day.,1,health
+23,,A viral post claims the government is giving every resident a free smartphone; register through this unknown link.,1,scam
+24,,"BREAKING: All trains across the country have been permanently cancelled from tomorrow, according to an unverified post.",1,transport
+25,,A fabricated screenshot claims schools will be closed for the next six months nationwide.,1,education
+26,,This edited image supposedly proves that a famous actor has been arrested today.,1,celebrity
+27,,A message claims that placing a magnet near your electricity meter makes power bills disappear.,1,science
+28,,Share now: a forwarded voice note says a poisonous chemical has been added to all bottled water brands.,1,public_safety
+29,,An unverified post says a cyclone will destroy every coastal city at midnight and urges people to panic-buy supplies.,1,weather
+30,,A fake giveaway message promises a large cash prize to anyone who sends their bank OTP.,1,scam
+31,,அதிர்ச்சி செய்தி: இந்த செய்தியை பகிரவில்லை என்றால் நாளை முதல் எல்லா வங்கி கணக்குகளும் முடக்கப்படும் என வதந்தி பரவுகிறது.,1,finance
+32,,இந்த மூலிகையை குடித்தால் சர்க்கரை நோய் ஒரே நாளில் முழுமையாக குணமாகும் என்று சரிபார்க்கப்படாத பதிவு கூறுகிறது.,1,health
+33,,"உடனே பகிருங்கள்: அனைவருக்கும் இலவச மடிக்கணினி வழங்கப்படுகிறது, இந்த சந்தேகமான இணைப்பில் பதிவு செய்யுங்கள்.",1,scam
+34,,நாளை முதல் தமிழ்நாட்டில் அனைத்து பேருந்துகளும் நிரந்தரமாக நிறுத்தப்படும் என்று ஆதாரமற்ற செய்தி பரவுகிறது.,1,transport
+35,,பள்ளி மாணவர்கள் அனைவருக்கும் தேர்வு எழுதாமல் தேர்ச்சி வழங்கப்படும் என்று போலியான அறிவிப்பு பகிரப்படுகிறது.,1,education
+36,,இந்த படத்தில் உள்ள அணை உடைந்துவிட்டதாக கூறும் பதிவு பழைய படத்தை மாற்றி பயன்படுத்துகிறது.,1,disaster
+37,,"ஒரு செய்தி, மொபைலை இரவு முழுவதும் அரிசிக்குள் வைத்தால் அதன் பேட்டரி இரட்டிப்பாகும் என ஆதாரமின்றி கூறுகிறது.",1,technology
+38,,ரகசிய அரசு திட்டம் மூலம் ஒவ்வொருவருக்கும் உடனடியாக பத்து லட்சம் ரூபாய் கிடைக்கும் என போலி இணைப்பு விளம்பரப்படுத்துகிறது.,1,scam
+39,,பகிரவும்: நாளை காலை முதல் நகரத்தில் குடிநீர் நிரந்தரமாக நிறுத்தப்படும் என உறுதிப்படுத்தப்படாத வதந்தி கூறுகிறது.,1,public_service
+40,,"ஒரு வைரல் பதிவு, தடுப்பூசி போட்ட அனைவரின் கைப்பேசிகளும் அரசு கண்காணிப்பில் இருப்பதாக தவறாகக் கூறுகிறது.",1,health
